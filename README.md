@@ -17,7 +17,12 @@ Meu playground para aprimorar alguns conhecimentos e algumas idéias malucas.
 -python backgroundRequest.py
 exe backgroundRequest.html
 
-OBS: Foi o começo de tudo, a idéia é no futuro conseguir ter diversos layout com a mesma página, assim só mudando o retorno do back para mudar sozinho o render, metando no futuro executar a mesma coisa com react-native ou native. Esse é o começo de tudo.
+OBS: Foi o começo de tudo, a idéia é no 
+futuro conseguir ter diversos layout com 
+a mesma página, assim só mudando o retorno 
+do back para mudar sozinho o render, metando 
+no futuro executar a mesma coisa com 
+react-native ou native. Esse é o começo de tudo.
 ```
 
 
