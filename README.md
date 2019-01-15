@@ -25,7 +25,9 @@ no futuro executar a mesma coisa com
 react-native ou native. Esse é o começo de tudo.
 ```
 
-
+```
+-RECEBER HTML BACKGROUND DE UM REQUEST.
+```
 
 
 ## Built With
